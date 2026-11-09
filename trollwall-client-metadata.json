@@ -1,7 +1,7 @@
 {
-  "client_id": "https://REPLACE-USER.github.io/REPLACE-REPO/trollwall-client-metadata.json",
+  "client_id": "https://bogdanpopescu-hue.github.io/troll_wall_metadata/trollwall-client-metadata.json",
   "client_name": "PRO TV Social Media Companion",
-  "client_uri": "https://REPLACE-USER.github.io/REPLACE-REPO/",
+  "client_uri": "https://bogdanpopescu-hue.github.io/troll_wall_metadata/",
   "redirect_uris": [
     "http://127.0.0.1:3001/api/trollwall/callback",
     "http://localhost:3001/api/trollwall/callback",
