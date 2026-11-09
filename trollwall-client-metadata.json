@@ -1,0 +1,14 @@
+{
+  "client_id": "https://REPLACE-USER.github.io/REPLACE-REPO/trollwall-client-metadata.json",
+  "client_name": "PRO TV Social Media Companion",
+  "client_uri": "https://REPLACE-USER.github.io/REPLACE-REPO/",
+  "redirect_uris": [
+    "http://127.0.0.1:3001/api/trollwall/callback",
+    "http://localhost:3001/api/trollwall/callback",
+    "https://social-media-companion.protv-ai-03-01.ai.protv.ro/api/trollwall/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid profile email offline_access"
+}
